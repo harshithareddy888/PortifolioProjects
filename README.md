@@ -25,3 +25,7 @@ Each project focuses on a different part of the data workflow — from cleaning 
   Scraped data from [books.toscrape.com](https://books.toscrape.com) using BeautifulSoup for practice, collecting book details for analysis.  
 - **Crypto API Automation**  
   Pulled real-time cryptocurrency data using a public API, automated the updates, and created visualizations to analyze price trends.
+
+## 🔹 Excel
+- **Full Excel Project**  
+  Cleaned, analyzed, and visualized a dataset using Excel tools like Pivot Tables, formulas, and charts. Built a mini end-to-end data project entirely in Excel.

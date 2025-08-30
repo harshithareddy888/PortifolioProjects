@@ -29,3 +29,9 @@ Each project focuses on a different part of the data workflow — from cleaning 
 ## 🔹 Excel
 - **Full Excel Project**  
   Cleaned, analyzed, and visualized a dataset using Excel tools like Pivot Tables, formulas, and charts. Built a mini end-to-end data project entirely in Excel.
+
+### 🛠 Skills Highlighted
+- **SQL**: Data cleaning, joins, aggregations, subqueries, CTEs  
+- **Python**: Pandas, NumPy, BeautifulSoup, API handling, automation  
+- **Excel**: Data cleaning, dashboards, pivot tables  
+- **Tableau**: Interactive dashboards, storytelling with data  

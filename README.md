@@ -3,7 +3,7 @@
 This repository contains a collection of projects that I’ve built to practice and showcase my skills in **SQL, Python, Excel, Tableau, and Data Analysis**.  
 Each project focuses on a different part of the data workflow — from cleaning and exploration to visualization and automation.
 
-### 🚀 About This Repo
+### About This Repo
 I’m continuously adding new projects as I learn and grow my skills. This repo serves as my personal portfolio to demonstrate real-world applications of data analysis.
 
 
@@ -13,13 +13,13 @@ I’m continuously adding new projects as I learn and grow my skills. This repo 
 - **Customer Call List Cleaning**  
   Cleaned and prepared a customer call list dataset in SQL, handling nulls, duplicates, and formatting issues for analysis.
 
-## 🔹 Tableau
+## Tableau
 - **COVID Dashboard**  
   Built an interactive Tableau dashboard using the COVID dataset previously explored in SQL. Showcased global and regional trends in cases and deaths.  
 - **Housing Data Dashboard**  
   Created a visualization project on housing data (using pandas for preprocessing) to analyze pricing, sales, and market patterns.
 
-## 🔹 Python
+## Python
 - **Correlation Analysis**  
   Explored correlations between variables using Python libraries (Pandas, NumPy, Matplotlib).  
 - **Amazon Web Scraping (Automated)**  
@@ -29,11 +29,11 @@ I’m continuously adding new projects as I learn and grow my skills. This repo 
 - **Crypto API Automation**  
   Pulled real-time cryptocurrency data using a public API, automated the updates, and created visualizations to analyze price trends.
 
-## 🔹 Excel
+## Excel
 - **Full Excel Project**  
   Cleaned, analyzed, and visualized a dataset using Excel tools like Pivot Tables, formulas, and charts. Built a mini end-to-end data project entirely in Excel.
 
-### 🛠 Skills Highlighted
+### Skills Highlighted
 - **SQL**: Data cleaning, joins, aggregations, subqueries, CTEs  
 - **Python**: Pandas, NumPy, BeautifulSoup, API handling, automation  
 - **Excel**: Data cleaning, dashboards, pivot tables  

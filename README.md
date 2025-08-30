@@ -15,3 +15,13 @@ Each project focuses on a different part of the data workflow — from cleaning 
   Built an interactive Tableau dashboard using the COVID dataset previously explored in SQL. Showcased global and regional trends in cases and deaths.  
 - **Housing Data Dashboard**  
   Created a visualization project on housing data (using pandas for preprocessing) to analyze pricing, sales, and market patterns.
+
+## 🔹 Python
+- **Correlation Analysis**  
+  Explored correlations between variables using Python libraries (Pandas, NumPy, Matplotlib).  
+- **Amazon Web Scraping (Automated)**  
+  Scraped product data (prices, ratings, availability) from Amazon using BeautifulSoup and automated the process to collect updated data at intervals.  
+- **Book Store Web Scraping**  
+  Scraped data from [books.toscrape.com](https://books.toscrape.com) using BeautifulSoup for practice, collecting book details for analysis.  
+- **Crypto API Automation**  
+  Pulled real-time cryptocurrency data using a public API, automated the updates, and created visualizations to analyze price trends.

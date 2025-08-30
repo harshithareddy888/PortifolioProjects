@@ -3,6 +3,9 @@
 This repository contains a collection of projects that I’ve built to practice and showcase my skills in **SQL, Python, Excel, Tableau, and Data Analysis**.  
 Each project focuses on a different part of the data workflow — from cleaning and exploration to visualization and automation.
 
+### 🚀 About This Repo
+I’m continuously adding new projects as I learn and grow my skills. This repo serves as my personal portfolio to demonstrate real-world applications of data analysis.
+
 
 ##  SQL
 - **COVID Data Exploration**  
